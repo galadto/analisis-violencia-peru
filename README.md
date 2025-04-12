@@ -1,15 +1,14 @@
 # Análisis de Violencia en Perú
 
-Este proyecto tiene como objetivo analizar los datos de violencia en Perú, explorar patrones y tendencias, y realizar predicciones usando técnicas estadísticas y de Machine Learning.
+Este proyecto tiene como objetivo analizar los datos de violencia en Perú, explorar patrones y tendencias.
 
 ## Descripción del Proyecto
 
-Se han utilizado datos oficiales de violencia en Perú para llevar a cabo un análisis exploratorio y un modelo predictivo de los factores que influyen en las tasas de violencia.
+Se han utilizado datos oficiales de violencia en Perú para llevar a cabo un análisis exploratorio.
 
 ### Objetivos del Análisis:
 1. Analizar la distribución de casos de violencia en diferentes departamentos de Perú.
 2. Identificar las tendencias en los datos a lo largo del tiempo.
-3. Desarrollar un modelo predictivo para identificar los factores más relevantes.
 
 ## Enlace al Notebook
 
@@ -25,7 +24,7 @@ También puedes ver el notebook de manera más bonita y estática en [NBViewer](
 
 ## Resultados
 
-El análisis muestra que los casos de violencia en áreas rurales de Perú están correlacionados con factores socioeconómicos como el nivel de educación y el acceso a servicios de salud.
+El análisis de los casos atendidos por violencia a nivel departamental en Perú revela una concentración significativa en la región de Lima, siendo este el departamento con mayor número de casos reportados de violencia,lo sugiere una carga desproporcionada de reportes en esta zona. Esto podría deberse a factores como mayor densidad poblacional, mejor acceso a servicios de denuncia, o incluso mayor visibilización institucional
 
 ## Licencia
 
